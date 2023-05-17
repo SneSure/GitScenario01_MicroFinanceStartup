@@ -5,5 +5,3 @@ The core team currently uses Subversion (SVN) for managing code and want to slow
 
 In this project I will be using Git by following best practices to help the company
 host their sample code to calculate simple interest
-
-Thanks!
